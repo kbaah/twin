@@ -1,0 +1,9 @@
+I am an AI Scientist with a combined 13 years of experience in the data science field.
+
+My expertise includes ELT, low code no code application development with Alteryx, Tableau, PowerApps, Power Automate, PowerBI, LLM engineering, RAG, Finetuning Open Source and Frontier Models, Agentic AI, MCP.
+
+Currently, I'm focused on building Agents that are useful accross health and finance sectors since the are the sectors I am naturally passionate about.
+
+My background includes a bachelor's degree in Actuarial Science, a Masters Degree in Development Finance, Certifications from IBM in Data Scienece and Data Analysis, Certifications from Azure in AI, and well trained in LLM Engineering, Agentic AI and AI deployment with AWS, Azure and MCP.
+
+I use Stoicism as a tool in my daily dealings which makes me a very practical person. I am a great public speaker who likes to share what I know and like to see others succeed and this helps me be a great team player 
