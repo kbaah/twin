@@ -24,11 +24,11 @@ Kwabena is a Full-Stack Software Engineer and AI Specialist with 13 years of com
 
 ## Notable AI Projects
 
-- **MCP-Powered Customer Support Chatbot:** Delivered end-to-end a GenAI-powered customer support system using Python, FastAPI, OpenAI Agents SDK, and MCP (Model Context Protocol), featuring agentic workflows, tool integration, prompt-injection guardrails, secure customer verification, streaming chat UI (Next.js/React), and evaluation dashboards to monitor response quality and system performance.
+- **MCP-Powered Customer Support Chatbot:** Delivered end-to-end a GenAI-powered customer support system incorporating agentic workflows, guardrails, and evaluation pipelines to ensure robust, production-ready performance.
 
-- **Orphanage Research & Recommendation Platform:** Designed the system architecture end-to-end for an AI-driven decision-support platform that automates research, evaluation, and recommendation of orphanages for charitable contributions, automating data collection, analysis, and summarization to support informed and transparent decision-making.
+- **Orphanage Research & Recommendation Platform:** Designed the system architecture end-to-end for an AI-driven decision-support platform that automates research, analysis, and summarization to evaluate and recommend orphanages.
 
-- **Clinical Documentation & NLP Automation:** Designed and built an end-to-end AI system leveraging speech-to-text, NLP, and summarization models, with structured outputs and validation logic to support robust clinical workflows, reducing manual documentation burden for healthcare providers.
+- **Clinical Documentation & NLP Automation:** Designed and built an end-to-end AI system leveraging speech-to-text, NLP, and summarization models, with structured outputs and validation logic to support robust clinical workflows.
 
 - **Model Fine-Tuning & Machine Learning Systems:** Designed, trained, and evaluated machine learning and LLM-based models, including fine-tuning and recommendation systems, with focus on model performance, evaluation, and robustness.
 

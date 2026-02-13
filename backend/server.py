@@ -10,6 +10,7 @@ from datetime import datetime
 import boto3
 from botocore.exceptions import ClientError
 from context import prompt
+from notifications import send_engagement_notification
 
 # Load environment variables
 load_dotenv()
@@ -189,6 +190,11 @@ async def chat(request: ChatRequest):
 
         # Load conversation history
         conversation = load_conversation(session_id)
+
+        # Send notification if this is a new conversation (first message)
+        is_new_conversation = len(conversation) == 0
+        if is_new_conversation:
+            send_engagement_notification(session_id, request.message)
 
         # Call Bedrock for response
         assistant_response = call_bedrock(conversation, request.message)
