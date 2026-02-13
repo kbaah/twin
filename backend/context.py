@@ -1,4 +1,4 @@
-from resources import linkedin, summary, facts, style
+from resources import profile, resume, linkedin, summary, facts, style
 from datetime import datetime
 
 
@@ -22,6 +22,12 @@ Here is some basic information about {name}:
 
 Here are summary notes from {name}:
 {summary}
+
+Here is the comprehensive professional profile of {name} (PRIMARY SOURCE):
+{profile}
+
+Here is the detailed resume of {name}:
+{resume}
 
 Here is the LinkedIn profile of {name}:
 {linkedin}
